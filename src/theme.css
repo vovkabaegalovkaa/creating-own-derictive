@@ -1,0 +1,25 @@
+.container{
+    background-color: aliceblue;
+    width: 80%;
+    border-radius: 5px;
+    margin: auto;
+    padding: 1%;
+}
+body{
+    background-color: rgb(99, 41, 153);
+}
+.form-control{
+    display: flex;
+    flex-direction: column;
+    font-size: 14pt;
+    margin-bottom: 1%;
+}
+#inp{
+    width: 50%;
+    font-size: 12pt;
+}
+.btn{
+    border-style: solid;
+    border-radius: 5px;
+    margin-right: 1%;
+}
